@@ -1,3 +1,4 @@
+
 # maven-archetype
 # 建立自己的archetype流程
 
@@ -31,3 +32,6 @@
 ## 4、使用
 
 在创建module时，选择create from archetype，并add archetype将模板项目的坐标填入点击确认便能生成module
+
+# 
+>>>>>>
